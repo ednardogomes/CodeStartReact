@@ -1,7 +1,6 @@
 import { useEffect } from "react";
 const TaskItem = ({ task }) => {
-  useEffect(() => {
-  }, []);
+  useEffect(() => {}, []);
   return (
     <>
       <h1>{task.description}</h1>

@@ -45,6 +45,10 @@
 // }
 
 // export default App;
+
+
+
+import TaskItem from "./components/TaskItem";
 import Tasks from "./components/Tasks";
 
 const App = () => {
